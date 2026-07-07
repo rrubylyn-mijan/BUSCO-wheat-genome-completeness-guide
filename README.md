@@ -409,7 +409,7 @@ print("Figure 2 done")
 The script generates:
 ```text
 busco_figure.png
-busco_figure_glenn_rollag.png
+busco_figure_wheat-g_wheat-r.png
 ```
 ## Notes
 
