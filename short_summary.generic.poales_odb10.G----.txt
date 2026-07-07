@@ -1,0 +1,32 @@
+# BUSCO version is: 5.7.1 
+# The lineage dataset is: poales_odb10 (Creation date: 2024-01-08, number of genomes: 12, number of BUSCOs: 4896)
+# Summarized benchmarking in BUSCO notation for file /90daydata/oat_renewal/Ruby/Glenn_pm_v1.fasta
+# BUSCO was run in mode: euk_genome_min
+# Gene predictor used: miniprot
+
+	***** Results: *****
+
+	C:99.6%[S:1.9%,D:97.7%],F:0.2%,M:0.2%,n:4896,E:0.4%	   
+	4880	Complete BUSCOs (C)	(of which 19 contain internal stop codons)		   
+	95	Complete and single-copy BUSCOs (S)	   
+	4785	Complete and duplicated BUSCOs (D)	   
+	10	Fragmented BUSCOs (F)			   
+	6	Missing BUSCOs (M)			   
+	4896	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	21	Number of scaffolds
+	798	Number of contigs
+	14463317234	Total length
+	0.001%	Percent gaps
+	719 MB	Scaffold N50
+	42 MB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.4
+	bbtools: None
+	miniprot_index: 0.13-r248
+	miniprot_align: 0.13-r248
+	python: sys.version_info(major=3, minor=10, micro=14, releaselevel='final', serial=0)
+	busco: 5.7.1
